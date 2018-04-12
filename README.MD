@@ -1,10 +1,10 @@
 Hello et bienvenue,
 
-Les exercices du Jour 8 de la semaine 2
+Les exercices du Jour 8 de la semaine 2 dans le fichier parent.
 
-Dans le dossier Learning tous les pdf des leçons du matin sur Nikigori.
+Dans le dossier Learning tous les pdf des leçons du matin sur Nikigori des théories de Félix.
 
-
+_____________________________________________________________
 Peer Learning
 Groupe Lyon 69006 -
 Slacks:Odyssée Levine, David Coat, Hugo, Mohammad-initialize
